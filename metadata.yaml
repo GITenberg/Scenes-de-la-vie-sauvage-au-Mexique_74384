@@ -1,0 +1,43 @@
+_repo: Scenes-de-la-vie-sauvage-au-Mexique_74384
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Girard, Flavius
+    gutenberg_agent_id: '57481'
+    url: http://www.gutenberg.org/2009/agents/57481
+creator:
+  author:
+    agent_name: Ferry, Gabriel
+    aliases:
+    - Bellemare, Louis de
+    - Bellemare, Gabriel Ferry de
+    - Bellemare, Eugène Louis Gabriel de
+    - Bellemare, Eugene Louis Gabriel de
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '45999'
+    url: http://www.gutenberg.org/2009/agents/45999
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriel_Ferry
+    - https://fr.wikipedia.org/wiki/Gabriel_Ferry
+description: ''
+gutenberg_issued: '2024-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74384'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=Q4I6AQAAMAAJ&hl=fr
+pgterms:marc905: 20230909090514ferry
+pgterms:marc906: '1879'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bG. Charpentier, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Scènes de la vie sauvage au Mexique
+url: http://www.gutenberg.org/ebooks/74384
