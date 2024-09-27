@@ -5,6 +5,9 @@ contributor:
     agent_name: Girard, Flavius
     gutenberg_agent_id: '57481'
     url: http://www.gutenberg.org/2009/agents/57481
+covers:
+- cover_type: archival
+  image_path: 74384-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferry, Gabriel
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gabriel_Ferry
     - https://fr.wikipedia.org/wiki/Gabriel_Ferry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74384#Scenes-de-la-vie-sauvage-au-Mexique
 gutenberg_issued: '2024-09-06'
 gutenberg_type: Text
 identifiers:
